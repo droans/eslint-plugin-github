@@ -1,6 +1,6 @@
-# Require SVGs to have an accessible name (`github/a11y-svg-has-accessible-name`)
+# @droans/github/a11y-svg-has-accessible-name
 
-💼 This rule is enabled in the ⚛️ `react` config.
+📝 Require SVGs to have an accessible name.
 
 <!-- end auto-generated rule header -->
 

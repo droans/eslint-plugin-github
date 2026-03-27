@@ -1,6 +1,6 @@
-# Disallow `event.preventDefault` calls inside of async functions (`github/async-preventdefault`)
+# @droans/github/async-preventdefault
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow `event.preventDefault` calls inside of async functions.
 
 <!-- end auto-generated rule header -->
 

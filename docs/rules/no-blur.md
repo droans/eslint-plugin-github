@@ -1,6 +1,6 @@
-# Disallow usage of `Element.prototype.blur()` (`github/no-blur`)
+# @droans/github/no-blur
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow usage of `Element.prototype.blur()`.
 
 <!-- end auto-generated rule header -->
 

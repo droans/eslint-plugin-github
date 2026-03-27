@@ -1,6 +1,6 @@
-# Enforce marking high frequency event handlers as passive (`github/require-passive-events`)
+# @droans/github/require-passive-events
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Enforce marking high frequency event handlers as passive.
 
 <!-- end auto-generated rule header -->
 

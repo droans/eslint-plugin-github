@@ -1,6 +1,6 @@
-# Disallow poorly performing event listeners (`github/prefer-observers`)
+# @droans/github/prefer-observers
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow poorly performing event listeners.
 
 <!-- end auto-generated rule header -->
 

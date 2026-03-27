@@ -1,6 +1,6 @@
-# Disallow `event.currentTarget` calls inside of async functions (`github/async-currenttarget`)
+# @droans/github/async-currenttarget
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow `event.currentTarget` calls inside of async functions.
 
 <!-- end auto-generated rule header -->
 

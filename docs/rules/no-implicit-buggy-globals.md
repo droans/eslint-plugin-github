@@ -1,6 +1,6 @@
-# Disallow implicit global variables (`github/no-implicit-buggy-globals`)
+# @droans/github/no-implicit-buggy-globals
 
-💼 This rule is enabled in the ✅ `recommended` config.
+📝 Disallow implicit global variables.
 
 <!-- end auto-generated rule header -->
 

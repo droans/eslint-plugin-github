@@ -1,6 +1,6 @@
-# Disallow usage the `d-none` CSS class (`github/no-d-none`)
+# @droans/github/no-d-none
 
-💼 This rule is enabled in the 🔐 `internal` config.
+📝 Disallow usage the `d-none` CSS class.
 
 <!-- end auto-generated rule header -->
 

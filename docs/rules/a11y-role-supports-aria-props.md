@@ -1,6 +1,6 @@
-# Enforce that elements with explicit or implicit roles defined contain only `aria-*` properties supported by that `role` (`github/a11y-role-supports-aria-props`)
+# @droans/github/a11y-role-supports-aria-props
 
-💼 This rule is enabled in the ⚛️ `react` config.
+📝 Enforce that elements with explicit or implicit roles defined contain only `aria-*` properties supported by that `role`.
 
 <!-- end auto-generated rule header -->
 

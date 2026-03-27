@@ -1,6 +1,6 @@
-# Enforce using `async/await` syntax over Promises (`github/no-then`)
+# @droans/github/no-then
 
-💼 This rule is enabled in the ✅ `recommended` config.
+📝 Enforce using `async/await` syntax over Promises.
 
 <!-- end auto-generated rule header -->
 

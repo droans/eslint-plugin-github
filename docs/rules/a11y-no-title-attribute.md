@@ -1,6 +1,6 @@
-# Disallow using the title attribute (`github/a11y-no-title-attribute`)
+# @droans/github/a11y-no-title-attribute
 
-💼 This rule is enabled in the ⚛️ `react` config.
+📝 Disallow using the title attribute.
 
 <!-- end auto-generated rule header -->
 

@@ -1,6 +1,6 @@
-# Disallow wrong usage of attribute names (`github/get-attribute`)
+# @droans/github/get-attribute
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow wrong usage of attribute names.
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 

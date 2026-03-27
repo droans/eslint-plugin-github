@@ -1,6 +1,6 @@
-# Disallow `Element.prototype.innerText` in favor of `Element.prototype.textContent` (`github/no-innerText`)
+# @droans/github/no-innerText
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow `Element.prototype.innerText` in favor of `Element.prototype.textContent`.
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 

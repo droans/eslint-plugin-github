@@ -1,6 +1,6 @@
-# Enforce `for..of` loops over `Array.forEach` (`github/array-foreach`)
+# @droans/github/array-foreach
 
-💼 This rule is enabled in the ✅ `recommended` config.
+📝 Enforce `for..of` loops over `Array.forEach`.
 
 <!-- end auto-generated rule header -->
 

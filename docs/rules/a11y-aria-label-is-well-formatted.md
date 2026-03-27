@@ -1,6 +1,6 @@
-# Enforce [aria-label] text to be formatted as you would visual text (`github/a11y-aria-label-is-well-formatted`)
+# @droans/github/a11y-aria-label-is-well-formatted
 
-💼 This rule is enabled in the ⚛️ `react` config.
+📝 Enforce [aria-label] text to be formatted as you would visual text.
 
 <!-- end auto-generated rule header -->
 

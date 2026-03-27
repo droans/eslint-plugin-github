@@ -1,6 +1,6 @@
-# Enforce a naming convention for js- prefixed classes (`github/js-class-name`)
+# @droans/github/js-class-name
 
-💼 This rule is enabled in the 🔐 `internal` config.
+📝 Enforce a naming convention for js- prefixed classes.
 
 <!-- end auto-generated rule header -->
 

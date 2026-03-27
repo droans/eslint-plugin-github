@@ -1,6 +1,6 @@
-# Disallow creating dynamic script tags (`github/no-dynamic-script-tag`)
+# @droans/github/no-dynamic-script-tag
 
-💼 This rule is enabled in the ✅ `recommended` config.
+📝 Disallow creating dynamic script tags.
 
 <!-- end auto-generated rule header -->
 

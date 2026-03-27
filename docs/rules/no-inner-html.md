@@ -1,6 +1,6 @@
-# Disallow `Element.prototype.innerHTML` in favor of `Element.prototype.textContent` (`github/no-inner-html`)
+# @droans/github/no-inner-html
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow `Element.prototype.innerHTML` in favor of `Element.prototype.textContent`.
 
 <!-- end auto-generated rule header -->
 

@@ -1,6 +1,6 @@
-# Disallow marking a event handler as passive when it has no effect (`github/no-useless-passive`)
+# @droans/github/no-useless-passive
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow marking a event handler as passive when it has no effect.
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 

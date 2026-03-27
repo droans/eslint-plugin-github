@@ -1,6 +1,6 @@
-# Disallow unescaped HTML literals (`github/unescaped-html-literal`)
+# @droans/github/unescaped-html-literal
 
-💼 This rule is enabled in the 🔍 `browser` config.
+📝 Disallow unescaped HTML literals.
 
 <!-- end auto-generated rule header -->
 
