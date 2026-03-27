@@ -1,8 +1,8 @@
 {
-  "name": "eslint-plugin-github",
+  "name": "@droans/eslint-plugin-github",
   "version": "0.0.0-dev",
   "type": "module",
-  "description": "An opinionated collection of ESLint shared configs and rules used by GitHub.",
+  "description": "An opinionated collection of ESLint shared configs and rules used by GitHub, updated to support eslint v10.",
   "main": "lib/index.js",
   "entries": [
     "lib/formatters/stylish-fixes.js"
